@@ -15,7 +15,7 @@
      $new_paragraph = str_replace($word, $new_word, $paragraph );
      echo '<br />';
      echo '<br />';
-     echo $new_paragraph;
+     var_dump ($new_paragraph);
 
 
     ?>
